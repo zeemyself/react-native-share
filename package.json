@@ -27,7 +27,7 @@
     "prettier": "^1.18.2",
     "react": "16.8.3",
     "react-native": "0.59.9",
-    "simple-git": "1.113.0"
+    "simple-git": "3.16.0"
   },
   "keywords": [
     "react-native",
